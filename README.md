@@ -1,6 +1,6 @@
 🏏 IPL Score Prediction using Machine Learning:
 
-    This project uses machine learning techniques to predict the final score of an IPL innings based on live match data like current runs, wickets, overs, and run rate. It combines data cleaning, exploratory analysis, model training, and an interactive widget interface built with ipywidgets.
+This project uses machine learning techniques to predict the final score of an IPL innings based on live match data like current runs, wickets, overs, and run rate. It combines data cleaning, exploratory analysis, model training, and an interactive widget interface built with ipywidgets.
 
 
 
@@ -13,7 +13,7 @@ The goal is to build a regression model that predicts the final score of a team 
 🔍 Key Features:
 
 🧹 Data Cleaning & Preprocessing
-Removed irrelevant columns and handled categorical data.
+* Removed irrelevant columns and handled categorical data.
 
 
 
@@ -37,24 +37,24 @@ Designed an intuitive UI with ipywidgets to input match parameters and view pred
 
 ✅ Model Performance:
 
-R² Score: ~0.95
+* R² Score: ~0.95
 
-Indicates a strong predictive performance with low error.
+* Indicates a strong predictive performance with low error.
 
-Metrics Used: R², Mean Absolute Error (MAE)
+* Metrics Used: R², Mean Absolute Error (MAE)
 
 
 
 🧠 Tech Stack:
 
-Python
+* Python
 
-Pandas, NumPy
+* Pandas, NumPy
 
-Matplotlib, Seaborn
+* Matplotlib, Seaborn
 
-Scikit-learn
+* Scikit-learn
 
-ipywidgets
+* ipywidgets
 
-Jupyter Notebook
+* Jupyter Notebook
