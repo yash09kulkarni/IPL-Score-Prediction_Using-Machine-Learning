@@ -58,3 +58,9 @@ Designed an intuitive UI with ipywidgets to input match parameters and view pred
 * ipywidgets
 
 * Jupyter Notebook
+
+
+📷 Screenshot:
+
+![image](https://github.com/user-attachments/assets/a5b1bf05-5029-4cb3-8394-b0c48e64b9af)
+
