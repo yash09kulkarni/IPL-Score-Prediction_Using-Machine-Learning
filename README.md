@@ -11,7 +11,6 @@ The goal is to build a regression model that predicts the final score of a team 
 🔍 Key Features
 
 🧹 Data Cleaning & Preprocessing
-
 Removed irrelevant columns and handled categorical data.
 
 
@@ -42,8 +41,13 @@ Metrics Used: R², Mean Absolute Error (MAE)
 🧠 Tech Stack
 
 Python
+
 Pandas, NumPy
+
 Matplotlib, Seaborn
+
 Scikit-learn
+
 ipywidgets
+
 Jupyter Notebook
